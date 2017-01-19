@@ -62,3 +62,7 @@ brew cask install filezilla
 ```
 brew cask install skype
 ```
+
+```
+brew cask install iterm2
+```
