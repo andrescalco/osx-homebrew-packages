@@ -70,3 +70,7 @@ brew cask install iterm2
 ```
 brew cask install xampp
 ```
+
+```
+brew cask install mysqlworkbench
+```
